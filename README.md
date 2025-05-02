@@ -1,4 +1,5 @@
 # игра шутер
+![Shooter](https://raw.githubusercontent.com/Parucnik/shoot/refs/heads/main/icon.ico)
 ## краткое описание: 
 простая стрелялка на **питоне**
 # требования:
